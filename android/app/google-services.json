@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "223739905342",
+    "firebase_url": "https://muriefoodapp-default-rtdb.firebaseio.com",
+    "project_id": "muriefoodapp",
+    "storage_bucket": "muriefoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223739905342:android:673b5f0c0bcfca0527586f",
+        "android_client_info": {
+          "package_name": "com.vinelart.muriefoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223739905342-uv6il32u2g0pttt0jkmh3nt815pdtiu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinelart.muriefoodapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "223739905342-n780t9m0237h5fk19obj16v13mtunnh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUb7NO8Bg5FXbbV2Rw38RJBb2lJCSXEL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223739905342-n780t9m0237h5fk19obj16v13mtunnh2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223739905342-11df45rf9cspcbalalmre2jlkh64dufg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vinelart.muriefoodapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
